@@ -1,0 +1,79 @@
+body{
+background-color: #A9F5BC;
+font-family: 'Quicksand', sans-serif;
+text-align: center;
+}
+
+h1{
+font-size: 40px;
+border: 2px solid #2EFE64;
+margin-top: 5px;
+margin-right: -50px;
+margin-left: -50px;
+margin-bottom: 40px;
+background-color: #58FA82;
+padding: 5px;
+}
+
+h2{
+font-size: 30px;
+border: 1px double #58FAD0;
+font-weight: lighter;
+margin-top: -15px;
+margin-right: -50px;
+margin-left: -50px;
+background-color: #A9F5F2;
+padding: 2px;
+}
+
+h3{
+font-size: 27.5px;
+}
+
+h4{
+font-size: 17.5px;
+font-weight: lighter;
+background-color: #F5A9A9;
+margin-right: -50px;
+margin-left: -50px;
+margin-top: -20px;
+margin-bottom: 30px;
+}
+
+h5{
+font-size: 17.5px;
+font-weight: lighter;
+background-color: #F5A9A9;
+margin-right: -50px;
+margin-left: -50px;
+margin-top: -20px;
+margin-bottom: 30px;
+}
+h6{
+font-size: 20px;
+font-weight: lighter;
+margin-right: -50px;
+margin-left: -50px;
+margin-top: -20px;
+margin-bottom: 30px;
+}
+
+form{
+font-size: 25px;
+}
+
+footer{
+font-size: 20px;
+}
+
+.btn{
+text-decoration:none;
+text-align:center;
+padding:5px 10px;
+border:solid 1px #0B6121;
+border-radius: 4px;
+font-family: 'Quicksand', sans-serif;
+font-weight: bold;
+color:#E5FFFF;
+background-color:#04B404;
+}
